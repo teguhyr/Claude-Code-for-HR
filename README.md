@@ -5,7 +5,7 @@ Claude Code transforms HR into a dynamic 'HR-as-Code' ecosystem. It automates st
 
 Welcome to the **Claude Code for HR** repository. This project is a curated learning path and resource hub designed to help HR professionals, People Ops leaders, and AI enthusiasts leverage **Claude Code**—Anthropic’s agentic CLI tool—to automate and elevate Human Resources functions.
 
-## Overview
+# Overview
 
 In an era where AI is shifting from "chatbots" to "agents," this repository serves as a blueprint for integrating agentic workflows into the HR lifecycle. 
 -----
