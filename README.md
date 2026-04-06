@@ -7,34 +7,10 @@ Welcome to the **Claude Code for HR** repository. This project is a curated lear
 
 ## Overview
 
-In an era where AI is shifting from "chatbots" to "agents," this repository serves as a blueprint for integrating agentic workflows into the HR lifecycle. By combining 20+ years of HR leadership with the precision of AI engineering, these materials aim to transform how we handle everything from talent analytics to organizational development.
-
+In an era where AI is shifting from "chatbots" to "agents," this repository serves as a blueprint for integrating agentic workflows into the HR lifecycle. 
 -----
 
 ## The Learning Journey
-
-The curriculum is structured into five distinct phases, moving from environment setup to strategic AI implementation.
-
-| Phase | Milestone | Focus Area |
-| :--- | :--- | :--- |
-| **01** | **Initialization** | Setting up the Claude Code CLI, configuring API keys, and environment variables. |
-| **02** | **HR Contextualization** | Grounding the agent in HR policies, labor laws, and company culture. |
-| **03** | **Workflow Automation** | Scripting tasks: JD generation, sentiment analysis of employee surveys, and resume parsing. |
-| **04** | **Data Security & Ethics** | Managing PII (Personally Identifiable Information) and mitigating AI bias in People Ops. |
-| **05** | **Agentic Strategy** | Building autonomous HR assistants for real-time leadership decision support. |
-
------
-
-## Repository Structure
-
-```text
-├── hr-learning-material-lNXAp/
-│   ├── source/           # Raw concepts and draft materials
-│   └── output/           # Finalized learning modules and infographics
-├── scripts/              # Sample CLI commands for Claude Code
-├── prompts/              # HR-specific system prompts and guardrails
-└── README.md             # Project documentation
-```
 
 -----
 
@@ -69,7 +45,7 @@ This project emphasizes the **Security-First** approach. When using Claude Code 
 
   * Never upload sensitive PII to public models without masking.
   * Always implement a **Human-in-the-Loop** (HITL) review for any AI-generated HR decisions.
-  * Ensure compliance with local labor regulations (e.g., GDPR, SKKNI).
+  * Ensure compliance with local labor regulations 
 
 -----
 
